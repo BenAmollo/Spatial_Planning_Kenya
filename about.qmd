@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/BenAmollo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/KampSpatial
+    - icon: github
+      text: Github
+      href: https://github.com/BenAmollo
+    - icon: facebook
+      text: Facebook
+      href: https://facebook.com/kampspatial
+---
+
+Welcome to our blog on physical and land use planning! Here, we delve into the dynamic world of urban development, zoning regulations, transportation networks, and environmental considerations. Our goal is to explore how thoughtful planning shapes our cities and landscapes. From analyzing case studies to discussing the latest trends in sustainable design, we aim to provide insights that inspire informed decision-making and foster dialogue among professionals and enthusiasts alike. Join us on this journey to uncover the intersection of policy, design, and community engagement that defines the built environment around us.

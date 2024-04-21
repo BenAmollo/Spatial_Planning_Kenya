@@ -1,0 +1,14 @@
+{
+  "hash": "88be1f0adf49d049098059276696d664",
+  "result": {
+    "markdown": "---\ntitle: \"Historical Perspective of Spatial Planning in Kenya\"\nauthor: \"Ben Amollo\"\ndate: \"2024-04-21\"\ncategories: [Spatial, Legal, Planning]\nimage: \"History.png\"\n---\n\n\nSpatial planning in Kenya has evolved significantly over the years, influenced by changing social, economic, and political factors. The history of spatial planning in Kenya can be traced back to the colonial era when the British implemented town planning principles in major urban centers like Nairobi and Mombasa. Post-independence, Kenya developed its own planning framework, leading to the establishment of the Department of Physical Planning in 1963. The 1970s witnessed the formulation of the National Development Plans, which included spatial planning components to guide the country's growth. In 1996, a spatial planning law came into being in the name of Physical Planning Act Cap 286. In the 2012, Kenya introduced the County Government Act, emphasizing decentralized planning at the county level. More recently, initiatives such as the National Spatial Plan 2015-2045 have aimed to address urbanization challenges, promote sustainable development, and guide land use policies across the country. Today, spatial planning in Kenya continues to evolve, emphasizing inclusivity, environmental sustainability, and economic resilience in urban and rural areas alike.\n\n```{}\n```\n\n\n::: {.cell}\n\n```{.r .cell-code}\nknitr::include_graphics(\"History2.png\")\n```\n\n::: {.cell-output-display}\n![](History2.png){width=633}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
